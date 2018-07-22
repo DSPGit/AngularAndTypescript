@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "strict": true,
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "strictPropertyInitialization": false,
+        "lib": [
+            "es2015",
+            "dom"
+        ]
+    }
+}
