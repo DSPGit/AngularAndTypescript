@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "watch": true,
+        "noEmitOnError": true,
+        "outDir": "src"
+    }
+}
