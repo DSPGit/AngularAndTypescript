@@ -61,3 +61,5 @@ Why angular?
 - Changes Detection cycle - is a process which is uni-directional
 
 - Guidelines for Angular are available and Angular tells you what and why a particular thing is to be used. Refer : https://angular.io/guide/styleguide#style-guide
+
+- Di capabilities (Dependency injection)
