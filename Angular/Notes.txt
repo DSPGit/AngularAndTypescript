@@ -9,8 +9,8 @@ Angular starts with :
 		
 Demo project: commands (angular version log -- google)
 - npm init
-- npm insall --save ---> required for production
-- npm insall --save-dev ---> required for production
+- npm install --save ---> required for production
+- npm install --save-dev ---> required for production
 
 ***Local Setup of modules/polyfills
 npm install --save @angular/common@5.2.10 @angular/compiler@5.2.10 @angular/core@5.2.10 @angular/platform-browser@5.2.10 @angular/platform-browser-dynamic@5.2.10 rxjs@5.5.2 core-js zone.js
