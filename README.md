@@ -63,3 +63,46 @@ Why angular?
 - Guidelines for Angular are available and Angular tells you what and why a particular thing is to be used. Refer : https://angular.io/guide/styleguide#style-guide
 
 - Di capabilities (Dependency injection)
+
+****************************************************************Day 1**********************************************************
+
+Angular Notes:
+Angular starts with :
+1. ngModule: (container)
+	- Manifest
+	- Root module
+	- contains lots of things
+	- list initially is empty, hence we need to register the components and modules
+		
+		
+Demo project: commands (angular version log -- google)
+- npm init
+- npm install --save ---> required for production
+- npm install --save-dev ---> required for production
+
+***Local Setup of modules/polyfills
+npm install --save @angular/common@5.2.10 @angular/compiler@5.2.10 @angular/core@5.2.10 @angular/platform-browser@5.2.10 @angular/platform-browser-dynamic@5.2.10 rxjs@5.5.2 core-js zone.js
+
+dev modules
+npm install --save-dev @types/node angular-router-loader angular2-template-loader awesome-typescript-loader@3.3.0 css-loader extract-text-webpack-plugin@3.0.2 file-loader html-loader html-webpack-plugin@2.30.1 null-loader raw-loader rimraf style-loader to-string-loader typescript webpack@3.8.1 webpack-dev-server@2.9.4 webpack-merge@4.1.1
+
+npm install --save jquery bootstrap popper.js
+
+https://jsonplaceholder.typicode.com/
+
+https://docs.emmet.io/cheat-sheet/
+
+************assignment**********
+- Create a model in events feature (refer camera image)
+- create 2 components
+	- events list 
+	- event details
+	(create a parent child relationship and display the event details on the click of the show details button show event details for 4 members:
+		code, name, startdate & fees)
+		
+9665622460 : Pravin
+
+****************************************************************Day 3**********************************************************
+MongoDB: 
+1. testing the port of the mongo DB : cmd "mongod"
+2. 
