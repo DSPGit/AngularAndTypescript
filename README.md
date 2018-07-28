@@ -106,3 +106,7 @@ https://docs.emmet.io/cheat-sheet/
 MongoDB: 
 1. testing the port of the mongo DB : cmd "mongod"
 2. https://getbootstrap.com : to get the animations etc.
+
+PIPES:
+1. user defined
+2. inbuilt
