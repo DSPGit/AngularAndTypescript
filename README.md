@@ -107,6 +107,21 @@ MongoDB:
 1. testing the port of the mongo DB : cmd "mongod"
 2. https://getbootstrap.com : to get the animations etc.
 
-PIPES:
+**PIPES:**
 1. user defined
 2. inbuilt
+
+Filtering: https://bootswatch.com/
+
+****Steps to use a new NgModule:****
+- Install ngModule 
+- register into vendor.ts
+- import in app.module.ts
+
+--> install "Augury" by Ragel chrome extension if not installed (check F12 )
+
+**What is ngModel?**
+it looks for a property in component class, if found then it will use it else it will declare one and use it (in our eg. searchChar is nowhere declared in event-list.component.ts class but it used as ngModel declared it.
+
+***Assignment:***
+Create a pipe for startDate and change the existing filter-by pipe for startsWith eventname
