@@ -105,4 +105,4 @@ https://docs.emmet.io/cheat-sheet/
 ****************************************************************Day 3**********************************************************
 MongoDB: 
 1. testing the port of the mongo DB : cmd "mongod"
-2. 
+2. https://getbootstrap.com : to get the animations etc.
