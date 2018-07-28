@@ -125,3 +125,31 @@ it looks for a property in component class, if found then it will use it else it
 
 ***Assignment:***
 Create a pipe for startDate and change the existing filter-by pipe for startsWith eventname
+
+**Component Lifecycle hooks**
+	- these are interceptors for angular
+	- all lifecycle hooks are interfaces
+	Eg:
+		- onChange
+		- onInit
+		
+**JsonPlaceHolder**
+https://jsonplaceholder.typicode.com/
+https://jsonplaceholder.typicode.com/posts
+
+**Promise vs Observable** --> refer presentation
+
+**MongoDB**
+-- start mongodb server : C:\Program Files\MongoDB\Server\3.4\bin>mongod
+-- db console : 
+	-> C:\Program Files\MongoDB\Server\3.4\bin>mongo
+	-> show dbs
+	-> use syne-hsbc-db; --> switches to db
+	-> db.createCollection("events") --> creates collection
+	-> show collections
+	-> db.events.insert({<insert it from event-list.service.ts>})
+	-> db.events.find().pretty();
+
+1. Creation of DB in MongoDB
+2. 
+node synechron-services.js
