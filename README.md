@@ -1,3 +1,9 @@
+***Trainer Contact Details**
+
+9665622460 : Pravin
+dabade.pravinkumar@gmail.com
+
+
 Why angular?
 - Its a framework [browser/mobile]
 
@@ -100,7 +106,6 @@ https://docs.emmet.io/cheat-sheet/
 	(create a parent child relationship and display the event details on the click of the show details button show event details for 4 members:
 		code, name, startdate & fees)
 		
-9665622460 : Pravin
 
 ****************************************************************Day 3**********************************************************
 MongoDB: 
@@ -151,5 +156,12 @@ https://jsonplaceholder.typicode.com/posts
 	-> db.events.find().pretty();
 
 1. Creation of DB in MongoDB
-2. 
-node synechron-services.js
+2. node synechron-services.js --> **this is to run the node server to connect to mongoDB**
+
+************************day 4***************************
+- Module based seperation done
+***EAGER LOADING***
+
+
+***Bootstraps files***
+https://bootswatch.com/
